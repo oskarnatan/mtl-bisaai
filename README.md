@@ -1,6 +1,6 @@
 # Compact Semantic Segmentation and Depth Estimation with Multi-task Learning
 
-## Implementasi program untuk [webinar BISA AI](https://tampil.id/event/detail/VFdwWk1FNUJQVDA9):
+## Implementasi program untuk [webinar BISA AI - Kampus Merdeka](https://tampil.id/event/detail/VFdwWk1FNUJQVDA9):
 <img src="docs/event.jpg" width="400">
 
 
