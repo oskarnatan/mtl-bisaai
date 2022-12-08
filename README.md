@@ -1,4 +1,4 @@
-# Compact Semantic Segmentation and Depth Estimation with Multi-task Learning
+# Multi-task AI on Google Colab: Simultaneous Image Segmentation and Depth Estimation
 
 ## Implementasi program untuk [webinar BISA AI - Kampus Merdeka](https://tampil.id/event/detail/VFhwUmVrNTNQVDA9):
 <img src="docs/event.jpg" width="400">
